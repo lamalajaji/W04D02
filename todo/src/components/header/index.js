@@ -5,7 +5,7 @@ import "./style.css";
 
 const header = () => {
   return (
-    <div>
+    <div class="header">
       <hi>hi header</hi>
     </div>
   );

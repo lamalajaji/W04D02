@@ -5,10 +5,10 @@ import "./style.css";
 
 const footer = ()=>{
     return (
-        <div>
-            <hi>hi footer</hi>
-        </div>
-    )
+      <div class="footer">
+        <h1>hi footer</h1>
+      </div>
+    );
 }
 
 footer();
